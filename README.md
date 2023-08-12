@@ -30,4 +30,5 @@ Remember, the faster you answer correctly, the higher your score will be!
 ## Screenshot
 
 ![](./assets/sfx/Code-Challenge.png)
+
 ![](./assets/sfx/Highscores.png)

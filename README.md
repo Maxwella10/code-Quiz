@@ -32,3 +32,16 @@ Remember, the faster you answer correctly, the higher your score will be!
 ![](./assets/sfx/Code-Challenge.png)
 
 ![](./assets/sfx/Highscores.png)
+
+
+## What I've learned
+
+this week material
+
+JSON
+
+localStorage
+
+JS element creation
+
+Timer function

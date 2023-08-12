@@ -6,7 +6,7 @@ This project is a website that allows users to take a timed quiz on JavaScript f
 This app runs in the browser, and features dynamically updated HTML and CSS powered by JavaScript. As always, built with accessibility in mind. Tested in Chrome, Firefox and Opera.
 
 
-Instructions 📝
+## Instructions 📝
 To take the Code Quiz:
 
 Open the Code Quiz in your web browser.

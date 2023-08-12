@@ -47,7 +47,8 @@ JS element creation
 Timer function
 
 
-Deployment  Page
+## Deployment  Page
+
 The Code Quiz is deployed and accessible via the following URL: 
 
 

@@ -50,6 +50,6 @@ Timer function
 ## Deployment  Page
 
 
-The Code Quiz is deployed and accessible via the following URL: https://maxwella10.github.io/code-Quiz/
+The Code Quiz is deployed and accessible via the following URL:  https://maxwella10.github.io/code-Quiz/
 
 

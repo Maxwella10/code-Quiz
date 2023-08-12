@@ -17,3 +17,8 @@ If your answer is correct, the next question will appear automatically. If your 
 The quiz will end when you have answered all the questions or when the timer reaches 0. ⏰
 At the end of the quiz, your score will be displayed, and you will have the option to save your initials and score to the high scores list.
 Remember, the faster you answer correctly, the higher your score will be!
+
+
+## Screenshot
+
+![](./assets/sfx/Code-Challenge.png)
